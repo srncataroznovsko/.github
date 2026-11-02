@@ -11,7 +11,6 @@
 [![IČO: 30117194](https://img.shields.io/badge/IČO-30117194-blue?style=flat-square)](https://or.justice.cz)
 [![Technika: DJI Mavic 3T](https://img.shields.io/badge/Technika-DJI_Mavic_3_Thermal-4caf50?style=flat-square)](https://dji.com)
 [![Piloti: EASA / ÚCL](https://img.shields.io/badge/Piloti-Certifikace_ÚCL-0288d1?style=flat-square)](https://caa.cz)
-[![Kontakt: E-mail](https://img.shields.io/badge/E--mail-srncataroznov%40gmail.com-d32f2f?style=flat-square&logo=gmail&logoColor=white)](mailto:srncataroznov@gmail.com)
 
 ---
 
@@ -103,9 +102,6 @@ Při záchranných akcích dbáme na vysokou technologickou úroveň a stoprocen
 
 Budeme rádi za jakoukoli zprávu, navázání spolupráce či dotaz:
 
-- 📧 **E-mail:** [srncataroznov@gmail.com](mailto:srncataroznov@gmail.com)
-- 📷 **Instagram:** [@srncataroznovsko](https://instagram.com/srncataroznovsko)
-- 👥 **Facebook:** [@srncataroznovsko](https://facebook.com/srncataroznovsko)
 - 🌐 **Webová prezentace:** [srncataroznovsko.github.io/web](https://srncataroznovsko.github.io/web/)
 
 ---
